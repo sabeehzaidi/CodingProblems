@@ -1,0 +1,3 @@
+/Users/sabeehzaidi/Projects/TestProject/TestProject/bin/Release/TestProject.exe
+/Users/sabeehzaidi/Projects/TestProject/TestProject/obj/Release/TestProject.csproj.CoreCompileInputs.cache
+/Users/sabeehzaidi/Projects/TestProject/TestProject/obj/Release/TestProject.exe

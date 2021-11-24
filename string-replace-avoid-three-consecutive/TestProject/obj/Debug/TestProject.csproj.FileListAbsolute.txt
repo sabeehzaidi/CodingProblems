@@ -1,0 +1,6 @@
+/Users/sabeehzaidi/Projects/TestProject/TestProject/bin/Debug/TestProject.exe
+/Users/sabeehzaidi/Projects/TestProject/TestProject/bin/Debug/TestProject.pdb
+/Users/sabeehzaidi/Projects/TestProject/TestProject/obj/Debug/TestProject.csproj.CoreCompileInputs.cache
+/Users/sabeehzaidi/Projects/TestProject/TestProject/obj/Debug/TestProject.exe
+/Users/sabeehzaidi/Projects/TestProject/TestProject/obj/Debug/TestProject.pdb
+/Users/sabeehzaidi/Projects/TestProject/TestProject/obj/Debug/TestProject.csproj.AssemblyReference.cache

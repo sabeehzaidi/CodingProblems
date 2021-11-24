@@ -1,0 +1,6 @@
+/Users/sabeehzaidi/Work/CodingProblems/string-replace-avoid-three-consecutive/TestProject/bin/Debug/TestProject.exe
+/Users/sabeehzaidi/Work/CodingProblems/string-replace-avoid-three-consecutive/TestProject/bin/Debug/TestProject.pdb
+/Users/sabeehzaidi/Work/CodingProblems/string-replace-avoid-three-consecutive/TestProject/obj/Debug/StringReplace.csproj.AssemblyReference.cache
+/Users/sabeehzaidi/Work/CodingProblems/string-replace-avoid-three-consecutive/TestProject/obj/Debug/StringReplace.csproj.CoreCompileInputs.cache
+/Users/sabeehzaidi/Work/CodingProblems/string-replace-avoid-three-consecutive/TestProject/obj/Debug/TestProject.exe
+/Users/sabeehzaidi/Work/CodingProblems/string-replace-avoid-three-consecutive/TestProject/obj/Debug/TestProject.pdb
